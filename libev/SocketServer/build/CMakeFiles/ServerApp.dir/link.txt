@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/ServerApp.dir/src/LibevSockt_Server.c.o  -o ServerApp -lev 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jeff-ubuntu/CodeDoc/LIB/libev/SocketServer/src/LibevSockt_Server.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ev.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+unistd.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+errno.h
+-
+
